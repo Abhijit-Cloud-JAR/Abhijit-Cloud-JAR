@@ -1,4 +1,6 @@
 # Hi 👋 I'm Abhijit Kar
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/26c6e01d-6cec-461d-bf19-a11ccb266fe3" />
+
 
 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
