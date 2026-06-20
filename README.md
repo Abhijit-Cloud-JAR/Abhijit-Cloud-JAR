@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit-cloud-jar&show_icons=true&locale=en&layout=compact" alt="abhijit-cloud-jar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-cloud-jar&" alt="abhijit-cloud-jar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-cloud-jar&" alt="abhijit-cloud-jar" />
+<img  align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"></p>
+
