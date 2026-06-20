@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AI Based Scalable System**
 
-- 📫 How to reach me **abhijit1234.ak@gmail.com**
+- 📫 How to reach me **abhijitkar.sudo@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
