@@ -1,54 +1,32 @@
-# Hi 👋 I'm Abhijit Kar
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/26c6e01d-6cec-461d-bf19-a11ccb266fe3" />
+<h1 align="center">Hi 👋, I'm Abhijit Kar</h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-🚀 DevOps Engineer | Cloud & Automation Enthusiast
+<br><br>
 
-🔭 I’m currently working on Scalable system
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijit-cloud-jar&label=Profile%20views&color=0e75b6&style=flat" alt="abhijit-cloud-jar" /> </p>
 
-I design, automate, and scale infrastructure using modern DevOps practices.
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijit-cloud-jar" alt="abhijit-cloud-jar" /></a> </p> -->
 
-🔹 Infrastructure as Code (Terraform)
-🔹 CI/CD (GitHub Actions, Jenkins)
-🔹 Containers (Docker, Kubernetes)
-🔹 Cloud (AWS/Azure/GCP)
-🔹 Monitoring (Prometheus, Grafana)
+- 🌱 I’m currently learning **Scalable Systems**
 
-📫 Reach me at: abhijitkar.sudo@yahoo.com
+- 👯 I’m looking to collaborate on **DevOps Project**
 
-## 🛠 Tech Stack
+- 🤝 I’m looking for help with **AI Based Scalable System**
 
-**Cloud:**
-AWS • Azure • GCP
+- 📫 How to reach me **abhijit1234.ak@gmail.com**
 
-**Containers:**
-Docker • Kubernetes • Helm
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhijitkar-cloudjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhijitkar-cloudjar/" height="30" width="40" /></a>
+<a href="https://instagram.com/abhijitkar.jar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhijitkar.jar" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/751021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="751021" height="30" width="40" /></a>
+</p>
 
-**CI/CD:**
-GitHub Actions • Jenkins • GitLab CI
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-**Infrastructure as Code:**
-Terraform • Ansible
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijit-cloud-jar&show_icons=true&locale=en&layout=compact" alt="abhijit-cloud-jar" /></p>
 
-**Monitoring:**
-Prometheus • Grafana • ELK Stack
-
-**OS:**
-Linux • Ubuntu • CentOS
-
-**Scripting:**
-Bash • Python
-<!--
-**Abhijit-Cloud-JAR/Abhijit-Cloud-JAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijit-cloud-jar&" alt="abhijit-cloud-jar" /></p>
