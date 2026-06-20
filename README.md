@@ -14,7 +14,28 @@ I design, automate, and scale infrastructure using modern DevOps practices.
 
 📫 Reach me at: abhijitkar.sudo@yahoo.com
 
+## 🛠 Tech Stack
 
+**Cloud:**
+AWS • Azure • GCP
+
+**Containers:**
+Docker • Kubernetes • Helm
+
+**CI/CD:**
+GitHub Actions • Jenkins • GitLab CI
+
+**Infrastructure as Code:**
+Terraform • Ansible
+
+**Monitoring:**
+Prometheus • Grafana • ELK Stack
+
+**OS:**
+Linux • Ubuntu • CentOS
+
+**Scripting:**
+Bash • Python
 <!--
 **Abhijit-Cloud-JAR/Abhijit-Cloud-JAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
