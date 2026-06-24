@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhijit Kar</h1>
-
+<!-- <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B02F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;3%2B+Years+of+Experience)](https://git.io/typing-svg)
+</div> -->
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B02F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;3%2B+Years+of+Experience" alt="Typing SVG" /></a>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
