@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijit Kar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0B02F7&center=true&vCenter=true&width=435&lines=DevOps+Engineer;3%2B+Years+of+Experience)](https://git.io/typing-svg)
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
